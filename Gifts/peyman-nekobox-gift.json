@@ -87,7 +87,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "2222.BWvD9gh5-Dcb.wOrkErs.DEv",
+        "server_name": "https://asadayazy.asadayazy.workers.dev/",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
