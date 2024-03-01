@@ -117,7 +117,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "https://asadbad.asadkhan.workers.dev/",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -126,7 +126,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "Bee.OnlyclOudflarE.Workers.DEv"
+          "Host": "https://asadbad.asadkhan.workers.dev/"
         },
         "max_early_data": 2048,
         "path": "/",
@@ -147,7 +147,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "https://asadbad.asadkhan.workers.dev/",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -206,7 +206,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "Bee.OnlyclOudflarE.Workers.DEv",
+        "server_name": "https://asadbad.asadkhan.workers.dev/",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -215,7 +215,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "Bee.OnlyclOudflarE.Workers.DEv"
+          "Host": "https://asadbad.asadkhan.workers.dev/"
         },
         "path": "/",
         "type": "ws"
